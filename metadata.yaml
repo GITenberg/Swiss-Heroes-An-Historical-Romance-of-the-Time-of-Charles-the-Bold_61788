@@ -1,0 +1,31 @@
+_repo: Swiss-Heroes-An-Historical-Romance-of-the-Time-of-Charles-the-Bold_61788
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Willys, A. A.
+    gutenberg_agent_id: '51612'
+    url: http://www.gutenberg.org/2009/agents/51612
+description: ''
+gutenberg_issued: '2020-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Swiss Heroes
+
+  An Historical Romance of the Time of Charles the Bold'
+url: http://www.gutenberg.org/ebooks/61788
